@@ -1,9 +1,9 @@
 def divide_numeros():
 
     try:
-        num1 = int(input("Digite um número inteiro: "))
+        num1 = int(input('Digite um número inteiro: '))
 
-        num2 = int(input("Digite o segundo número inteiro: "))
+        num2 = int(input('Digite o segundo número inteiro: '))
 
         resultado = (num1 / num2)
 
